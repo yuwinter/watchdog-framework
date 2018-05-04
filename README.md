@@ -61,7 +61,7 @@ js-md5 | js-md5库 | 0.7.3 | [https://github.com/emn178/js-md5](https://github.c
 ## 服务端
 - 克隆到本地
 ```git
-git clone git@github.com:watchdog-framework/watchdog-framework.git
+git clone git@github.com/yuwinter/watchdog-framework.git
 ```
 - 导入SQL
 
