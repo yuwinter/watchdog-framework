@@ -80,30 +80,11 @@ spring:
 - 启动
     
     运行`WatchDogApplication.java`，默认端口为1000
-    
- ## 客户端
-
-- [点击此处进入“watchdog-framework-web”项目部署说明](https://github.com/watchdog-framework/watchdog-framework-web)
-
-# 讨论
-
- - QQ群：30261540  &nbsp; [点我加入QQ群讨论](https://shang.qq.com/wpa/qunwpa?idkey=c3541f1d0dbe443456228e3aebf23f6795b614a94d5df6a32f0b2b1c759bb99b)
-
-- 作者博客：[https://www.licoy.cn](https://www.licoy.cn)
+ 
 
 # 项目地址
 
-- Github：[https://github.com/watchdog-framework/watchdog-framework](https://github.com/watchdog-framework/watchdog-framework)
-
-- 码云：[https://gitee.com/licoy/watchdog-framework](https://gitee.com/licoy/watchdog-framework)
-
-# TODO
-
-- [ ] 支持容器化
-- [ ] 字典
-- [x] 日志记录
-- [ ] More...
-
+- Github：[https://github.com/yuwinter/watchdog-framework](https://github.com/yuwinter/watchdog-framework)
 
 # 开源协议
 MIT
